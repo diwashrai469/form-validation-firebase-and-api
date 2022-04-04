@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "999699327790",
+    "project_id": "fir-authexample-5ac7b",
+    "storage_bucket": "fir-authexample-5ac7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999699327790:android:a177b9f852b127875de8bf",
+        "android_client_info": {
+          "package_name": "com.example.stopwatch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999699327790-s2k882th29tn8lukb95s48nbrj4d4rqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy6caRsUqLSP7wBF69AzKm9mhT5us5GEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999699327790-s2k882th29tn8lukb95s48nbrj4d4rqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
